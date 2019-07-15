@@ -1,11 +1,11 @@
 # Site settings
-author: Carl A Palumbo
-title: 
+author: Carl Palumbo
+title: Follow The Yellow Code Road
 header-img: img/home-bg.png
 email: carlpalumbo1@gmail.com
-copyright_name: Carl A Palumbo
+copyright_name: Carl Palumbo
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A short journey to a long career path 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Carlumbo
